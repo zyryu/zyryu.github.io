@@ -6,7 +6,7 @@
   <link href="http://zyryu.github.io/atom.xml" rel="self"/>
   
   <link href="http://zyryu.github.io/"/>
-  <updated>2022-02-21T09:38:01.634Z</updated>
+  <updated>2022-02-23T07:17:51.650Z</updated>
   <id>http://zyryu.github.io/</id>
   
   <author>
@@ -17,11 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>第一个博客</title>
+    <link href="http://zyryu.github.io/2022/02/23/first-blog/"/>
+    <id>http://zyryu.github.io/2022/02/23/first-blog/</id>
+    <published>2022-02-23T09:25:30.000Z</published>
+    <updated>2022-02-23T07:17:51.650Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://zyryu.github.io/2022/02/21/hello-world/"/>
     <id>http://zyryu.github.io/2022/02/21/hello-world/</id>
     <published>2022-02-21T09:38:01.634Z</published>
-    <updated>2022-02-21T09:38:01.634Z</updated>
+    <updated>2022-02-23T07:14:45.313Z</updated>
     
     
       
